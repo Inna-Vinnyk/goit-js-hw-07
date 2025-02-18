@@ -1,2 +1,2 @@
-# goit-js-hw-06
-This is my  home work #6 in Javascript
+# goit-js-hw-07
+This is my home work #7 in Javascript
